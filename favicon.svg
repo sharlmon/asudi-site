@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="130 20 640 640"><defs>
+  <linearGradient id="gLeft" gradientUnits="userSpaceOnUse" x1="260" y1="380" x2="440" y2="130">
+    <stop offset="0" stop-color="#14449c"/><stop offset=".55" stop-color="#0c2a78"/><stop offset="1" stop-color="#021a5a"/>
+  </linearGradient>
+  <linearGradient id="gStrip" gradientUnits="userSpaceOnUse" x1="330" y1="340" x2="430" y2="215">
+    <stop offset="0" stop-color="#0d3a90"/><stop offset="1" stop-color="#1656b8"/>
+  </linearGradient>
+  <linearGradient id="gRight" gradientUnits="userSpaceOnUse" x1="478" y1="0" x2="600" y2="0" gradientTransform="matrix(1 0 0.26 1 -78 0)">
+    <stop offset="0" stop-color="#021a5a"/><stop offset=".3" stop-color="#0a3a98"/><stop offset=".62" stop-color="#0e62c4"/><stop offset=".83" stop-color="#14bcf8"/><stop offset="1" stop-color="#10d6ff"/>
+  </linearGradient>
+  <linearGradient id="gRightShade" gradientUnits="userSpaceOnUse" x1="0" y1="300" x2="0" y2="500">
+    <stop offset="0" stop-color="#0a3a9a" stop-opacity="0"/><stop offset="1" stop-color="#0a3290" stop-opacity=".85"/>
+  </linearGradient>
+  <linearGradient id="gCap" gradientUnits="userSpaceOnUse" x1="450" y1="125" x2="515" y2="150"><stop offset="0" stop-color="#10d6ff" stop-opacity="0"/><stop offset=".5" stop-color="#10d6ff" stop-opacity=".9"/><stop offset="1" stop-color="#10d6ff"/></linearGradient>
+  <linearGradient id="gGreen" gradientUnits="userSpaceOnUse" x1="140" y1="0" x2="720" y2="0">
+    <stop offset="0" stop-color="#72e2a6"/><stop offset=".28" stop-color="#58d4ae"/><stop offset=".5" stop-color="#27aeb9"/><stop offset=".8" stop-color="#0c86a8"/><stop offset="1" stop-color="#096f9c"/>
+  </linearGradient>
+  <linearGradient id="gBlade" gradientUnits="userSpaceOnUse" x1="200" y1="560" x2="420" y2="440">
+    <stop offset="0" stop-color="#0a2f80"/><stop offset=".6" stop-color="#021e66"/><stop offset="1" stop-color="#0a2f80"/>
+  </linearGradient>
+  <linearGradient id="gTeal" gradientUnits="userSpaceOnUse" x1="140" y1="570" x2="300" y2="430">
+    <stop offset="0" stop-color="#1ba9a6"/><stop offset=".5" stop-color="#1590ae"/><stop offset="1" stop-color="#0d6f98"/>
+  </linearGradient>
+  <linearGradient id="gSq1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#68dca8"/><stop offset="1" stop-color="#1fa598"/></linearGradient>
+  <linearGradient id="gSq2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12c0fa"/><stop offset="1" stop-color="#0e98e4"/></linearGradient>
+  <linearGradient id="gSq3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16a8e2"/><stop offset="1" stop-color="#1590d2"/></linearGradient>
+  <linearGradient id="gSq4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d46a4"/><stop offset="1" stop-color="#1457b8"/></linearGradient>
+  <linearGradient id="gSq5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3590"/><stop offset="1" stop-color="#1050ae"/></linearGradient>
+  <linearGradient id="gSq6" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1688d6"/><stop offset="1" stop-color="#0d62b6"/></linearGradient>
+  <linearGradient id="gSq7" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#52d0aa"/><stop offset="1" stop-color="#119aa2"/></linearGradient>
+</defs>
+<g id="curl">
+  <path d="M141,522 C143,552 170,566 202,565 C180,552 168,538 166,515 Z" fill="#62d8a8"/>
+  <path d="M138,528 C145,480 225,436 298,431 C250,455 212,488 204,520 C200,545 215,561 236,564 C190,574 143,566 138,528 Z" fill="url(#gTeal)"/>
+  <path d="M186,540 C200,490 270,432 300,430 C340,428 395,445 420,474 C380,458 330,460 305,490 C280,520 255,555 235,563 C215,570 190,560 186,540 Z" fill="url(#gBlade)"/>
+</g>
+<g id="green">
+  <path d="M141,520 C145,470 195,405 250,372 C300,348 360,352 420,393 C470,425 510,458 552,486 C600,512 660,520 700,505 C712,498 720,490 723,480 C715,515 690,545 650,555 C610,562 580,548 536,516 C500,490 470,462 435,445 C400,425 360,410 320,412 C270,415 215,430 176,452 C155,470 143,495 141,520 Z" fill="url(#gGreen)"/>
+</g>
+<g id="leftLeg">
+  <path d="M399,128 C406,118 420,113 440,113 C458,113 472,126 478,146 L452,200 L438,236 L367,345 C340,339 270,338 223,374 Z" fill="url(#gLeft)"/>
+  <path d="M318,330 L395,216 C408,207 428,214 437,236 L367,345 C350,340 330,336 318,330 Z" fill="url(#gStrip)"/>
+</g>
+<g id="rightLeg">
+  <path id="rl" d="M430,115 C455,108 495,112 516,146 C540,195 575,265 600,310 C625,360 650,395 673,417 C690,433 705,445 728,438 C722,455 716,468 706,478 C690,492 670,500 645,498 C600,495 560,470 526,440 L450,152 L432,118 Z" fill="url(#gRight)"/>
+  <path d="M430,115 C455,108 495,112 516,146 C540,195 575,265 600,310 C625,360 650,395 673,417 C690,433 705,445 728,438 C722,455 716,468 706,478 C690,492 670,500 645,498 C600,495 560,470 526,440 L450,152 L432,118 Z" fill="url(#gRightShade)"/>
+  <path d="M436,113 C468,106 506,113 518,148 L506,176 C496,146 470,126 440,124 Z" fill="url(#gCap)"/>
+</g>
+<g id="squares">
+  <rect class="sq" x="696" y="198" width="44" height="44" rx="2" fill="url(#gSq1)"/>
+  <rect class="sq" x="619" y="229" width="44" height="45" rx="2" fill="url(#gSq2)"/>
+  <rect class="sq" x="596" y="290" width="30" height="30" rx="2" fill="url(#gSq3)"/>
+  <rect class="sq" x="727" y="280" width="34" height="35" rx="2" fill="url(#gSq4)"/>
+  <rect class="sq" x="665" y="311" width="43" height="43" rx="2" fill="url(#gSq5)"/>
+  <rect class="sq" x="633" y="364" width="30" height="31" rx="2" fill="url(#gSq6)"/>
+  <rect class="sq" x="721" y="382" width="40" height="41" rx="2" fill="url(#gSq7)"/>
+</g>
+</svg>
