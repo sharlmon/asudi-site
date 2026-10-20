@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="130 20 640 640"><defs>
   <linearGradient id="gLeft" gradientUnits="userSpaceOnUse" x1="260" y1="380" x2="440" y2="130">
-    <stop offset="0" stop-color="#14449c"/><stop offset=".55" stop-color="#0c2a78"/><stop offset="1" stop-color="#021a5a"/>
+    <stop offset="0" stop-color="#2f2b92"/><stop offset=".55" stop-color="#0c2a78"/><stop offset="1" stop-color="#021a5a"/>
   </linearGradient>
   <linearGradient id="gStrip" gradientUnits="userSpaceOnUse" x1="330" y1="340" x2="430" y2="215">
-    <stop offset="0" stop-color="#0d3a90"/><stop offset="1" stop-color="#1656b8"/>
+    <stop offset="0" stop-color="#26268a"/><stop offset="1" stop-color="#3d37bd"/>
   </linearGradient>
   <linearGradient id="gRight" gradientUnits="userSpaceOnUse" x1="478" y1="0" x2="600" y2="0" gradientTransform="matrix(1 0 0.26 1 -78 0)">
-    <stop offset="0" stop-color="#021a5a"/><stop offset=".3" stop-color="#0a3a98"/><stop offset=".62" stop-color="#0e62c4"/><stop offset=".83" stop-color="#14bcf8"/><stop offset="1" stop-color="#10d6ff"/>
+    <stop offset="0" stop-color="#021a5a"/><stop offset=".3" stop-color="#0a3a98"/><stop offset=".62" stop-color="#3f38c4"/><stop offset=".83" stop-color="#8070f5"/><stop offset="1" stop-color="#9b8cff"/>
   </linearGradient>
   <linearGradient id="gRightShade" gradientUnits="userSpaceOnUse" x1="0" y1="300" x2="0" y2="500">
     <stop offset="0" stop-color="#0a3a9a" stop-opacity="0"/><stop offset="1" stop-color="#0a3290" stop-opacity=".85"/>
   </linearGradient>
-  <linearGradient id="gCap" gradientUnits="userSpaceOnUse" x1="450" y1="125" x2="515" y2="150"><stop offset="0" stop-color="#10d6ff" stop-opacity="0"/><stop offset=".5" stop-color="#10d6ff" stop-opacity=".9"/><stop offset="1" stop-color="#10d6ff"/></linearGradient>
+  <linearGradient id="gCap" gradientUnits="userSpaceOnUse" x1="450" y1="125" x2="515" y2="150"><stop offset="0" stop-color="#9b8cff" stop-opacity="0"/><stop offset=".5" stop-color="#9b8cff" stop-opacity=".9"/><stop offset="1" stop-color="#9b8cff"/></linearGradient>
   <linearGradient id="gGreen" gradientUnits="userSpaceOnUse" x1="140" y1="0" x2="720" y2="0">
-    <stop offset="0" stop-color="#72e2a6"/><stop offset=".28" stop-color="#58d4ae"/><stop offset=".5" stop-color="#27aeb9"/><stop offset=".8" stop-color="#0c86a8"/><stop offset="1" stop-color="#096f9c"/>
+    <stop offset="0" stop-color="#c4b5fd"/><stop offset=".28" stop-color="#aa9bfa"/><stop offset=".5" stop-color="#7b6df0"/><stop offset=".8" stop-color="#5249dc"/><stop offset="1" stop-color="#4038c0"/>
   </linearGradient>
   <linearGradient id="gBlade" gradientUnits="userSpaceOnUse" x1="200" y1="560" x2="420" y2="440">
     <stop offset="0" stop-color="#0a2f80"/><stop offset=".6" stop-color="#021e66"/><stop offset="1" stop-color="#0a2f80"/>
   </linearGradient>
   <linearGradient id="gTeal" gradientUnits="userSpaceOnUse" x1="140" y1="570" x2="300" y2="430">
-    <stop offset="0" stop-color="#1ba9a6"/><stop offset=".5" stop-color="#1590ae"/><stop offset="1" stop-color="#0d6f98"/>
+    <stop offset="0" stop-color="#7466ee"/><stop offset=".5" stop-color="#5f55e6"/><stop offset="1" stop-color="#4640cc"/>
   </linearGradient>
-  <linearGradient id="gSq1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#68dca8"/><stop offset="1" stop-color="#1fa598"/></linearGradient>
-  <linearGradient id="gSq2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12c0fa"/><stop offset="1" stop-color="#0e98e4"/></linearGradient>
-  <linearGradient id="gSq3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16a8e2"/><stop offset="1" stop-color="#1590d2"/></linearGradient>
-  <linearGradient id="gSq4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d46a4"/><stop offset="1" stop-color="#1457b8"/></linearGradient>
-  <linearGradient id="gSq5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3590"/><stop offset="1" stop-color="#1050ae"/></linearGradient>
-  <linearGradient id="gSq6" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1688d6"/><stop offset="1" stop-color="#0d62b6"/></linearGradient>
-  <linearGradient id="gSq7" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#52d0aa"/><stop offset="1" stop-color="#119aa2"/></linearGradient>
+  <linearGradient id="gSq1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bfaefc"/><stop offset="1" stop-color="#7264ec"/></linearGradient>
+  <linearGradient id="gSq2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8272f6"/><stop offset="1" stop-color="#5a4de0"/></linearGradient>
+  <linearGradient id="gSq3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6558e8"/><stop offset="1" stop-color="#574bdc"/></linearGradient>
+  <linearGradient id="gSq4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d2a96"/><stop offset="1" stop-color="#3c36bc"/></linearGradient>
+  <linearGradient id="gSq5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3590"/><stop offset="1" stop-color="#3731ac"/></linearGradient>
+  <linearGradient id="gSq6" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5347d8"/><stop offset="1" stop-color="#3a34b8"/></linearGradient>
+  <linearGradient id="gSq7" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a193f9"/><stop offset="1" stop-color="#6a5fea"/></linearGradient>
 </defs>
 <g id="curl">
-  <path d="M141,522 C143,552 170,566 202,565 C180,552 168,538 166,515 Z" fill="#62d8a8"/>
+  <path d="M141,522 C143,552 170,566 202,565 C180,552 168,538 166,515 Z" fill="#b8a8fb"/>
   <path d="M138,528 C145,480 225,436 298,431 C250,455 212,488 204,520 C200,545 215,561 236,564 C190,574 143,566 138,528 Z" fill="url(#gTeal)"/>
   <path d="M186,540 C200,490 270,432 300,430 C340,428 395,445 420,474 C380,458 330,460 305,490 C280,520 255,555 235,563 C215,570 190,560 186,540 Z" fill="url(#gBlade)"/>
 </g>
