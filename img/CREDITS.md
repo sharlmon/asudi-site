@@ -21,3 +21,5 @@ Source pattern: https://unsplash.com/photos/<id>
 | edtech.jpg | 1509062522246-3755977927d7 |
 | fintech.jpg | 1563013544-824ae1b704d3 |
 | data-services.jpg | 1460925895917-afdab827c52f |
+
+Used as decorative panel backgrounds on the homepage (under a navy overlay): healthtech.jpg (See it work), cloud-saas.jpg (Connected to your tools), hero.jpg (final call to action).
